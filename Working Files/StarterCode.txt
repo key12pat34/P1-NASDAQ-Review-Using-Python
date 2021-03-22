@@ -1,0 +1,5 @@
+#Filter down to last 10 years
+#Group by name and year
+#Calculate total yearly volume
+#Identify year open and close
+#
