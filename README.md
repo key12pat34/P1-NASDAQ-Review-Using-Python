@@ -1,8 +1,5 @@
 # Project-1
 
-# Group Name: 
-First_project = True
-
 
 # Team Members: 
 Keyur Patil
